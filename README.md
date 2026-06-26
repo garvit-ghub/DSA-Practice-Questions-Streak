@@ -7,4 +7,20 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0237-delete-node-in-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
