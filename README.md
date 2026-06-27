@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0237-delete-node-in-a-linked-list](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0237-delete-node-in-a-linked-list) |
 ## Tree
@@ -20,6 +21,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Depth-First Search
 |  |
@@ -28,6 +30,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Breadth-First Search
 |  |
@@ -50,6 +53,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Array
 |  |
@@ -65,4 +69,8 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
