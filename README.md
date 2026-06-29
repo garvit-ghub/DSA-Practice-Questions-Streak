@@ -26,6 +26,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0173-binary-search-tree-iterator) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0112-path-sum](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -62,6 +65,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0173-binary-search-tree-iterator) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -100,4 +104,12 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0173-binary-search-tree-iterator) |
+## Hash Table
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
