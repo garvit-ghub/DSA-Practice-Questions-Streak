@@ -96,10 +96,12 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0096-unique-binary-search-trees) |
+| [0509-fibonacci-number](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0096-unique-binary-search-trees) |
+| [0509-fibonacci-number](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -129,4 +131,12 @@
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0797-all-paths-from-source-to-target) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
