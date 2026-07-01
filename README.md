@@ -95,11 +95,13 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0509-fibonacci-number) |
 ## Design
@@ -138,5 +140,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
