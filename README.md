@@ -38,6 +38,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0112-path-sum](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -112,4 +114,12 @@
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
