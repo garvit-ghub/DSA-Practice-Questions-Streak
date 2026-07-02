@@ -103,6 +103,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0096-unique-binary-search-trees) |
@@ -135,6 +136,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0078-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0797-all-paths-from-source-to-target) |
 ## Recursion
@@ -154,4 +156,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0078-subsets) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
