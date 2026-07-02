@@ -95,12 +95,14 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0509-fibonacci-number) |
@@ -142,4 +144,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
