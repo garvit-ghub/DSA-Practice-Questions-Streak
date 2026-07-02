@@ -73,6 +73,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Divide and Conquer
 |  |
@@ -134,6 +135,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0078-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0797-all-paths-from-source-to-target) |
 ## Recursion
 |  |
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/garvit-ghub/DSA-Practice-Questions-Streak/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
